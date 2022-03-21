@@ -9,12 +9,12 @@ Main app screen should show a list of user's books lists in a vertical scroll. E
 - Errors should be handled and information should be shown to the user.
 
 ### Wireframes:
-![wireframes](https://raw.githubusercontent.com/Edmundas/assignment/main/wireframes.png)
+![wireframes](https://raw.githubusercontent.com/KeskoSenukaiDigital/assignment/main/wireframes.png)
 
 ### APIs:
-- Books: https://my-json-server.typicode.com/edmundas/assignment/books
-- Book details: https://my-json-server.typicode.com/edmundas/assignment/book/{book_id}
-- Lists: https://my-json-server.typicode.com/edmundas/assignment/lists
+- Books: https://my-json-server.typicode.com/KeskoSenukaiDigital/assignment/books
+- Book details: https://my-json-server.typicode.com/KeskoSenukaiDigital/assignment/book/{book_id}
+- Lists: https://my-json-server.typicode.com/KeskoSenukaiDigital/assignment/lists
 
 ### Bonus tasks:
 - Store data in database and refresh from API.
