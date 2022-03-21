@@ -1,7 +1,199 @@
 {
-  "songs": [
-    { "id": 1, "title": "Song 1" },
-    { "id": 2, "title": "Song 2" },
-    { "id": 3, "title": "Song 3" }
+  "books": [
+    {
+      "id": 1,
+      "list_id": 2,
+      "title": "The old man and the sea",
+      "img": "https://covers.openlibrary.org/b/id/7884851-L.jpg"
+    },
+    {
+      "id": 2,
+      "list_id": 3,
+      "title": "The Great Gatsby",
+      "img": "https://covers.openlibrary.org/b/id/9367345-L.jpg"
+    },
+    {
+      "id": 3,
+      "list_id": 3,
+      "title": "Moby Dick",
+      "img": "https://covers.openlibrary.org/b/id/11681548-L.jpg"
+    },
+    {
+      "id": 4,
+      "list_id": 2,
+      "title": "The grapes of wrath",
+      "img": "https://covers.openlibrary.org/b/id/9292315-L.jpg"
+    },
+    {
+      "id": 5,
+      "list_id": 3,
+      "title": "Invisible Man",
+      "img": "https://covers.openlibrary.org/b/id/9367108-L.jpg"
+    },
+    {
+      "id": 6,
+      "list_id": 2,
+      "title": "The Lord of the Rings",
+      "img": "https://covers.openlibrary.org/b/id/8314545-L.jpg"
+    },
+    {
+      "id": 7,
+      "list_id": 3,
+      "title": "A Clockwork Orange",
+      "img": "https://covers.openlibrary.org/b/id/8401469-L.jpg"
+    },
+    {
+      "id": 8,
+      "list_id": 2,
+      "title": "Of Mice and Men",
+      "img": "https://covers.openlibrary.org/b/id/8465280-L.jpg"
+    },
+    {
+      "id": 9,
+      "list_id": 2,
+      "title": "The Stand",
+      "img": "https://covers.openlibrary.org/b/id/8579743-L.jpg"
+    },
+    {
+      "id": 10,
+      "list_id": 1,
+      "title": "The Hitchhikers Guide to the Galaxy",
+      "img": "https://covers.openlibrary.org/b/id/11464688-L.jpg"
+    },
+    {
+      "id": 11,
+      "list_id": 2,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "img": "https://covers.openlibrary.org/b/id/12376736-L.jpg"
+    },
+    {
+      "id": 12,
+      "list_id": 1,
+      "title": "Dune",
+      "img": "https://covers.openlibrary.org/b/id/12181264-L.jpg"
+    }
+  ],
+  "book": [
+    {
+      "id": 1,
+      "list_id": 2,
+      "isbn": "0684801221",
+      "author": "Ernest Hemingway",
+      "title": "The old man and the sea",
+      "img": "https://covers.openlibrary.org/b/id/7884851-L.jpg",
+      "description": "The Old Man and the Sea is one of Hemingway's most enduring works. Told in language of great simplicity and power, it is the story of an old Cuban fisherman, down on his luck, and his supreme ordeal -- a relentless, agonizing battle with a giant marlin far out in the Gulf Stream.\n\nHere Hemingway recasts, in strikingly contemporary style, the classic theme of courage in the face of defeat, of personal triumph won from loss. Written in 1952, this hugely successful novella confirmed his power and presence in the literary world and played a large part in his winning the 1954 Nobel Prize for Literature."
+    },
+    {
+      "id": 2,
+      "list_id": 3,
+      "author": "F. Scott Fitzgerald",
+      "title": "The Great Gatsby",
+      "img": "https://covers.openlibrary.org/b/id/9367345-L.jpg",
+      "description": "Here is a novel, glamorous, ironical, compassionate – a marvelous fusion into unity of the curious incongruities of the life of the period – which reveals a hero like no other – one who could live at no other time and in no other place. But he will live as a character, we surmise, as long as the memory of any reader lasts.\n\n\"There was something gorgeous about him, some heightened sensitivity to the promises of life.... It was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again.\"\n\nIt is the story of this Jay Gatsby who came so mysteriously to West Egg, of his sumptuous entertainments, and of his love for Daisy Buchanan – a story that ranges from pure lyrical beauty to sheer brutal realism, and is infused with a sense of the strangeness of human circumstance in a heedless universe.\n\nIt is a magical, living book, blended of irony, romance, and mysticism."
+    },
+    {
+      "id": 3,
+      "list_id": 3,
+      "isbn": "9781405881661",
+      "author": "Herman Melville",
+      "title": "Moby Dick",
+      "img": "https://covers.openlibrary.org/b/id/11681548-L.jpg",
+      "description": "\"Command the murderous chalices! Drink ye harpooners! Drink and swear, ye men that man the deathful whaleboat's bow -- Death to Moby Dick!\" So Captain Ahab binds his crew to fulfil his obsession -- the destruction of the great white whale. Under his lordly but maniacal command the Pequod's commercial mission is perverted to one of vengeance. To Ahab, the monster that destroyed his body is not a creature, but the symbol of \"some unknown but still reasoning thing.\" Uncowed by natural disasters, ill omens, even death, Ahab urges his ship towards \"the undeliverable, nameless perils of the whale.\" Key letters from Melville to Nathaniel Hawthorne are printed at the end of this volume. - Back cover."
+    },
+    {
+      "id": 4,
+      "list_id": 2,
+      "isbn": "0140247750",
+      "author": "John Steinbeck",
+      "title": "The grapes of wrath",
+      "img": "https://covers.openlibrary.org/b/id/9292315-L.jpg",
+      "description": "Steinbeck’s classic novel of the Great Depression is as vivid now as ever. The story focuses on a family of Oklahoma sharecroppers, farmers who work another man’s land for a share of the crops. Driven from their home by drought and poverty they take to the road in a battered old truck and make their way to California to look for work. When they arrive they find hundreds of others like them being forced to work for breadline wages. they begin working as fruit pickers, strike-breakers replacing the people who have been trying to establish a union but their consciences force them to leave."
+    },
+    {
+      "id": 5,
+      "list_id": 3,
+      "isbn": "0394717155",
+      "author": "Ralph Ellison",
+      "title": "Invisible Man",
+      "img": "https://covers.openlibrary.org/b/id/9367108-L.jpg",
+      "description": "Invisible Man is the story of a young black man from the South who does not fully understand racism in the world. Filled with hope about his future, he goes to college, but gets expelled for showing one of the white benefactors the real and seamy side of black existence. He moves to Harlem and becomes an orator for the Communist party, known as the Brotherhood. In his position, he is both threatened and praised, swept up in a world he does not fully understand. As he works for the organization, he encounters many people and situations that slowly force him to face the truth about racism and his own lack of identity. As racial tensions in Harlem continue to build, he gets caught up in a riot that drives him to a manhole. In the darkness and solitude of the manhole, he begins to understand himself - his invisibility and his identity. He decides to write his story down (the body of the novel) and when he is finished, he vows to enter the world again."
+    },
+    {
+      "id": 6,
+      "list_id": 2,
+      "isbn": "0618260242",
+      "author": "J.R.R. Tolkien",
+      "title": "The Lord of the Rings",
+      "img": "https://covers.openlibrary.org/b/id/8314545-L.jpg",
+      "description": "During his travels across Middle-earth, the hobbit Bilbo Baggins had found the Ring. But the simple band of gold was far from ordinary; it was in fact the One Ring - the greatest of the ancient Rings of Power. Sauron, the Dark Lord, had infused it with his own evil magic, and when it was lost, he was forced to flee into hiding.\n\nBut now Sauron's exile has ended and his power is spreading anew, fueled by the knowledge that his treasure has been found. He has gathered all the Great Rings to him, and will stop at nothing to reclaim the One that will complete his dominion. The only way to stop him is to cast the Ruling Ring deep into the Fire-Mountain at the heart of the land of Mordor--Sauron's dark realm.\n\nFate has placed the burden in the hands of Frodo Baggins, Bilbo's heir...and he is resolved to bear it to its end. Or his own."
+    },
+    {
+      "id": 7,
+      "list_id": 3,
+      "isbn": "9780393089134",
+      "author": "Anthony Burgess",
+      "title": "A Clockwork Orange",
+      "img": "https://covers.openlibrary.org/b/id/8401469-L.jpg",
+      "description": "A Clockwork Orange is a dystopian satirical black comedy novel by English writer Anthony Burgess, published in 1962. It is set in a near-future society that has a youth subculture of extreme violence. The teenage protagonist, Alex, narrates his violent exploits and his experiences with state authorities intent on reforming him. The book is partially written in a Russian-influenced argot called \"Nadsat\", which takes its name from the Russian suffix that is equivalent to '-teen' in English. According to Burgess, it was a jeu d'esprit written in just three weeks.\n\nIn 2005, A Clockwork Orange was included on Time magazine's list of the 100 best English-language novels written since 1923, and it was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. The original manuscript of the book has been kept at McMaster University's William Ready Division of Archives and Research Collections in Hamilton, Ontario, Canada since the institution purchased the documents in 1971. It is considered one of the most influential dystopian books."
+    },
+    {
+      "id": 8,
+      "list_id": 2,
+      "isbn": "0142000671",
+      "author": "John Steinbeck",
+      "title": "Of Mice and Men",
+      "img": "https://covers.openlibrary.org/b/id/8465280-L.jpg",
+      "description": "The second book in John Steinbeck’s labor trilogy, Of Mice and Men is a touching tale of two migrant laborers in search of work and eventual liberation from their social circumstances. Fiercely devoted to one another, George and Lennie plan to save up to finance their dream of someday owning a small piece of land. The pair seems unstoppable until tragedy strikes and their hopes come crashing down, forcing George to make a difficult decision regarding the welfare of his best friend.\n\nThe novel is set on a ranch in Soledad, CA. Author Frank Bergon recalls reading Of Mice and Men for the first time as a teenager living in the San Joaquin Valley and remembers how he saw “as if in a jolt of light the ordinary surroundings of [his] life become worthy of literature.” Steinbeck works to propagate the notion that meaningful stories emerge from the marginalized; that even those on the fringes of society can make deserving contributions to the literary canon."
+    },
+    {
+      "id": 9,
+      "list_id": 2,
+      "isbn": "0451169530",
+      "author": "Stephen King",
+      "title": "The Stand",
+      "img": "https://covers.openlibrary.org/b/id/8579743-L.jpg",
+      "description": "One man escapes from a biological weapon facility after an accident, carrying with him the deadly virus known as Captain Tripps, a rapidly mutating flu that - in the ensuing weeks - wipes out most of the world's population. In the aftermath, survivors choose between following an elderly black woman to Boulder or the dark man, Randall Flagg, who has set up his command post in Las Vegas. The two factions prepare for a confrontation between the forces of good and evil."
+    },
+    {
+      "id": 10,
+      "list_id": 1,
+      "isbn": "0330437984",
+      "author": "Douglas Adams",
+      "title": "The Hitchhikers Guide to the Galaxy",
+      "img": "https://covers.openlibrary.org/b/id/11464688-L.jpg",
+      "description": "The Hitchhiker's Guide to the Galaxy is the first of six books in the Hitchhiker's Guide to the Galaxy comedy science fiction \"hexalogy\" by Douglas Adams. The novel is an adaptation of the first four parts of Adams's radio series of the same name. The novel was first published in London on 12 October 1979. It sold 250,000 copies in the first three months."
+    },
+    {
+      "id": 11,
+      "list_id": 2,
+      "isbn": "9781408849927",
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "img": "https://covers.openlibrary.org/b/id/12376736-L.jpg",
+      "description": "When mysterious letters start arriving on his doorstep, Harry Potter has never heard of Hogwarts School of Witchcraft and Wizardry.\n\nThey are swiftly confiscated by his aunt and uncle.\n\nThen, on Harry’s eleventh birthday, a strange man bursts in with some important news: Harry Potter is a wizard and has been awarded a place to study at Hogwarts.\n\nAnd so the first of the Harry Potter adventures is set to begin."
+    },
+    {
+      "id": 12,
+      "list_id": 1,
+      "isbn": "0441013597",
+      "author": "Frank Herbert",
+      "title": "Dune",
+      "img": "https://covers.openlibrary.org/b/id/12181264-L.jpg",
+      "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for...\n\nWhen House Atreides is betrayed, the destruction of Paul's family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad'Dib, he will bring to fruition humankind's most ancient and unattainable dream.\n\nA stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction."
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "title": "Reading"
+    },
+    {
+      "id": 2,
+      "title": "Read"
+    },
+    {
+      "id": 3,
+      "title": "Plan to read"
+    }
   ]
 }
