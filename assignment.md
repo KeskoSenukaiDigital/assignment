@@ -9,7 +9,7 @@ Main app screen should show a list of user's books lists in a vertical scroll. E
 - Errors should be handled and information should be shown to the user.
 
 ### Wireframes:
-![wireframes](https://github.com/edmundas/assignment/wireframes.png)
+![wireframes](https://raw.githubusercontent.com/Edmundas/assignment/main/wireframes.png)
 
 ### APIs:
 - Books: https://my-json-server.typicode.com/edmundas/assignment/books
